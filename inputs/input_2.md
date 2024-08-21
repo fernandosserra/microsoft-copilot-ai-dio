@@ -1,7 +1,7 @@
 # Input 2
 For this exercise, we need to open this [page](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html) on Microsoft Learning.
 
-In this input, the instructions let us to use our second prompt, "How o I go about setting up a business in New York?", so we get this output.
+In this input, the instructions let us to use our second prompt, "How o I go about setting up a business in New York?", so we get this [output](https://github.com/fernandosserra/microsoft-copilot-ai-dio/blob/main/outputs/Output_2.png?raw=true).
 
 Since the image is large, I'm pasting the return below.
 

@@ -6,7 +6,7 @@ The third section of the page is named "Use Copilot to create content for a pres
 
 Or sixth prompt is "Write a summary of the benefits of using a corporate cleaning company for your business. The summary should consist of five short bullet points."
 
-So we get this output:
+So we get this [output](https://github.com/fernandosserra/microsoft-copilot-ai-dio/blob/main/outputs/Output_6.png?raw=true):
 
 ## Output 6
 Certainly! Here are five key benefits of using a corporate cleaning company for your business:
