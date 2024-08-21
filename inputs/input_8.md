@@ -4,7 +4,7 @@ For this exercise, we need to open this [page](https://microsoftlearning.github.
 
 There are a section named "Use Copilot to compose an email"
 
-We're asked to change the Copilot Pane to Compose section, using this prompt "Request a meeting with an investment bank to discuss funding for a commercial cleaning business." whit a professional tone, an e-mail format and a medium length. So we get this [output](https://github.com/fernandosserra/microsoft-copilot-ai-dio/blob/main/outputs/Output_8.png?raw=true):
+We're asked to change the Copilot Pane to Compose section, using this prompt "Request a meeting with an investment bank to discuss funding for a commercial cleaning business." whit a professional tone, an e-mail format and a medium length. So we get this [output](https://github.com/fernandosserra/microsoft-copilot-ai-dio/blob/main/outputs/Output_8.png):
 
 ## Output 8
 

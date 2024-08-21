@@ -2,7 +2,7 @@
 
 For this exercise, we need to open this [page](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html) on Microsoft Learning.
 
-In Step 3 of the section "Use Copilot to create content for a business plan", we're asked to use the prompt: "Write a business plan for 'Contoso Cleaning' based on the information in this document. Include an executive summary, market overview, and financial projections." Then we get this [output](https://github.com/fernandosserra/microsoft-copilot-ai-dio/blob/main/outputs/Output_4.png?raw=true).
+In Step 3 of the section "Use Copilot to create content for a business plan", we're asked to use the prompt: "Write a business plan for 'Contoso Cleaning' based on the information in this document. Include an executive summary, market overview, and financial projections." Then we get this [output](https://github.com/fernandosserra/microsoft-copilot-ai-dio/blob/main/outputs/Output_4.png).
 
 ## Output 4
 
